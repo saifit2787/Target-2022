@@ -1,5 +1,8 @@
 Planning Belajar Laravel :
 1. Eloquent
-- belajar query builder DB
 - Belajar model
+- relasi di one to one
+- belajar query builder DB murni
 2. Collection
+-collection di eloquent
+- collection biasa
